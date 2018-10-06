@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  background-color:black;
+  color: white;  
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 5px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.u{
+  font-color:red;
+}
+.button{
+  color: black;
+}
+table, th, td {
+   border: 1px solid white;
+   background-color: black; 
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+  padding: 15px;
+}
